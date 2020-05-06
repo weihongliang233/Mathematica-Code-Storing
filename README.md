@@ -2,7 +2,6 @@
 It's a repo to store some projects and scripts written in Mathematica, as well as some paclets I discovered from different websites.
 #README
 
-## 简介
 
 这是一个用于存储我日常自己写的代码以及在各种网站上面看到的好资源和好代码。
 
